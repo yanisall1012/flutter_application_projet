@@ -1,7 +1,7 @@
-Application de Gestion d'Activités
++ Application de Gestion d'Activités
 Cette application offre une plateforme complète pour la gestion des activités, des utilisateurs et des paniers. Elle est développée avec Flutter et utilise Firebase pour l'authentification, la gestion des données et le stockage.
 
-Fonctionnalités Principales
++ Fonctionnalités Principales
 1. Authentification des Utilisateurs
 Les utilisateurs peuvent s'inscrire et se connecter à l'application. L'inscription nécessite une adresse e-mail et un mot de passe. Une fois connectés, les utilisateurs peuvent explorer les activités et gérer leur profil.
 
@@ -17,7 +17,7 @@ Les utilisateurs peuvent consulter les détails complets des activités, y compr
 5. Gestion du Profil Utilisateur
 Les utilisateurs peuvent consulter leur profil et mettre à jour leurs informations personnelles, telles que leur adresse, leur date de naissance, leur ville et leur code postal. Ils peuvent également modifier leur adresse e-mail et leur mot de passe.
 
-Fonctionnalités Bonus
++ Fonctionnalités Bonus
 1. Partie Identification
 Une partie identification permet aux utilisateurs de s'identifier lorsqu'ils participent à une activité nécessitant une identification spécifique.
 
@@ -27,7 +27,7 @@ Les utilisateurs peuvent filtrer les activités en fonction de différents crit�
 3. Ajout de Commentaires et de Notations
 Les utilisateurs peuvent laisser des commentaires et des notations pour les activités qu'ils ont déjà essayées. Ces commentaires et notations peuvent aider les autres utilisateurs à prendre des décisions éclairées lors de la sélection des activités.
 
-Technologies Utilisées
++ Technologies Utilisées
 Flutter & Dart: Framework et langage de programmation pour le développement d'applications multiplateformes.
 Firebase Authentication: Service d'authentification pour la gestion des utilisateurs.
 Cloud Firestore: Base de données NoSQL pour le stockage des données.
