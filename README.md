@@ -1,5 +1,5 @@
  Application de Gestion d'Activités
-+Cette application offre une plateforme complète pour la gestion des activités, des utilisateurs et des paniers. Elle est développée avec Flutter et utilise Firebase pour l'authentification, la gestion des données et le stockage.
++ Cette application offre une plateforme complète pour la gestion des activités, des utilisateurs et des paniers. Elle est développée avec Flutter et utilise Firebase pour l'authentification, la gestion des données et le stockage.
 
 + Fonctionnalités Principales
 1. Authentification des Utilisateurs
