@@ -6,8 +6,8 @@
 
 + identifiants pour se connecter:
 
-                                  + - identifiant 1: toto@gmail.com  - mot de passe 1: 12345678
-                                  +  - identifiant 2: yanis@gmail.com  - mot de passe 2: 12345678
+                                  identifiant 1: toto@gmail.com  - mot de passe 1: 12345678
+                                  identifiant 2: yanis@gmail.com  - mot de passe 2: 12345678
   
 + je vous ai envoyé une invitation sur firebase pour avoir un apperçu sur les collections
   
