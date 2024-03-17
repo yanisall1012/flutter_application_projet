@@ -4,6 +4,10 @@
 
 + La plateforme utilisée pour tester : Chrome
 
++ identifiants pour se connecter: - identifiant 1: toto@gmail.com  - mot de passe 1: 12345678
+                                   - identifiant 2: yanis@gmail.com  - mot de passe 2: 12345678
++ je vous ai envoyé un invitation sur firebase pour avoir un apperçu sur les collections
+  
 + Fonctionnalités Principales
 1. Authentification des Utilisateurs
 Les utilisateurs peuvent s'inscrire et se connecter à l'application. L'inscription nécessite une adresse e-mail et un mot de passe. Une fois connectés, les utilisateurs peuvent explorer les activités et gérer leur profil.
